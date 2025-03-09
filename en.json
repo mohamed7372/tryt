@@ -1,0 +1,105 @@
+{
+    "navbar": {
+        "particulier": "Individuals Directory",
+        "professionnel": "Professionals Directory",
+        "inverse": "Reverse Directory",
+        "title": "Universal Directory of Algérie Télécom",
+        "fr": "FR",
+        "en": "EN",
+        "ar": "AR"
+    },
+   "header": {
+    "title": "Algérie Télécom Universal Directory",
+    "sub-title": "Who are you looking for?",
+    "search-1": "First name / Last name",
+    "search-2": "Company",
+    "search-3": "Name, First name, Company",
+    "filter": "Filter",
+    "en": "EN",
+    "ar": "AR"
+},
+    "search": {
+        "title": "Search Results",
+        "no_results": "No results found. Please try a different search.",
+        "loading": "Searching..."
+    },
+    "actel": {
+        "title": "Discover in your region"
+    },
+    "about": {
+        "title": "Discover in your region",
+        "content": "Annuaire-at.dz is a telephone directory designed to offer you a simple, fast, and efficient experience. With an intuitive interface and optimized search, you can easily find the contacts you need, whether individuals or businesses. Annuaire-at.dz provides you with a reliable database, regularly updated, to facilitate access to contacts in just a few clicks."
+    },
+    "mentions": {
+        "title-1": "Online Directory WEBSITE LEGAL NOTICES",
+        "content-1-1": "www.annuaire.at.dz is the official website address, the access and the use of this website is subject to these legal notices, detailed hereafter, in addition to the applicable laws and/or regulations.;",
+        "content-1-2": "The connection, the use and the access to this website imply that the internet user accepts the full dispositions of these Legal Notices.;",
+    
+        "title-2": "ARTICLE 1 - LEGAL INFORMATION",
+        "content-2-1": "This article specifies the participants’ identity within its realization and follow-up.;",
+        "content-2-2": "The website: www.algerietelecom.dz is edited by ALGERIA TELECOM, its headquarters address: ALGERIA TELECOM SPA Route Nationale n°5, Cinq Maisons, Mohammadia 16130 Algiers.;",
+        "content-2-3": "Phone number: (213) (21) 82.38.38;",
+        "content-2-4": "E-mail: contact@algerietelecom.dz;",
+        "content-2-5": "Whomever browses, reads, views, and uses the website www.annuaire.at.dz is considered a user.;",
+    
+        "title-3": "ARTICLE 2 - ACCESSIBILITY",
+        "content-3-1": "The website is accessible 24 hours a day, 7 days a week, except scheduled or not interruptions, for maintenance needs or force majeure.;",
+        "content-3-2": "If inaccessible, ALGERIA TELECOM is in charge of restoring access, the website isn’t responsible for any damage resulting from the unavailability.;",
+    
+        "title-4": "ARTICLE 3 - INTELLECTUAL PROPERTY",
+        "content-4-1": "All the website content, including graphics, images, texts, videos, animations, sounds, logos, GIFs, and icons, as well as their formatting, are ALGERIA TELECOM’s exclusive property, except trademarks, logos, or content of other partner companies or authors.;",
+        "content-4-2": "The reproduction, distribution, modification, adaptation, retransmission, or publication, even partial, of these various elements is strictly prohibited.;",
+        "content-4-3": "Breach of this prohibition constitutes an infringement that may lead the counterfeiter to civil and criminal liability.;",
+    
+        "title-5": "ARTICLE 4 - COOKIES POLICY",
+        "content-5-1": "Browsing on the website www.algerietelecom.dz can cause cookie(s) to be stored on the user's computer. A cookie is a small text file that stores browsing information of a computer on a site. Nevertheless, it does not allow user identification. These data are meant to ease browsing on the website.;",
+    
+        "title-6": "ARTICLE 5 - CONTACT",
+        "content-6-1": "For any report, the user is to contact the editor at: contact@algerietelecom.dz.;"
+      },
+   "faq": {
+    "title": "Frequently Asked questions",
+    "question-1": "What is Algérie Télécom Online Residential Directory?",
+    "reponse-1": "The Online Residential Telephone Directory Service allows citizens to search and find the contact details of all Algérie Télécom subscribers located in Algeria. Users can carry out searches at any time using different criteria to obtain the results corresponding to their request.",
+
+    "question-2": "How to access Algérie Télécom Online Residential Directory?",
+    "reponse-2": "You can access Algérie Télécom Online Residential Directory via our website: https://annuaire.at.dz using a web browser.",
+
+    "question-3": "Who should use Algérie Télécom Online Residential Directory Service?",
+    "reponse-3": "This service is intended for all Algérie Télécom subscribers and occasional visitors.",
+
+    "question-4": "Do I have to register to access Algérie Télécom Online Residential Directory?",
+    "reponse-4": "No, the access to Algérie Télécom Online Residential Directory does not require registration.",
+
+    "question-5": "How can I change my details in Algérie Télécom Online Residential Directory?",
+    "reponse-5": "To change your details in Algérie Télécom Online Residential Directory, go to your nearest Commercial Agency.",
+
+    "question-6": "How can I look up a contact in Algérie Télécom Online Residential Directory?",
+    "reponse-6": "Use the search bar on the home page. You can filter the results by Province and Municipality.",
+
+    "question-7": "Can I not appear in Algérie Télécom Online Residential Directory?",
+    "reponse-7": "Please consult our ‘Terms of use’ section or contact our customer service department at 12 for more information.",
+
+    "question-8": "What data is displayed in Algérie Télécom Online Residential Directory?",
+    "reponse-8": "The data displayed in Algérie Télécom Online Residential Directory includes the first and last name of the residential subscriber and the address.",
+
+    "question-9": "What should I do if my search in Algérie Télécom Online Residential Directory is unsuccessful?",
+    "reponse-9": "If your search is unsuccessful, this means that the telephone number you are looking for is not listed in the directory."
+}
+,
+    "contact": {
+        "title": "Contact us at 12",
+        "content-1": "Algérie Télécom provides you with number 12 to assist you wherever you are.",
+        "content-2": "For any request for information, assistance, or complaints, you can dial 12 from your landline (free) or mobile (4 DA/min).",
+        "content-3": "Our customer service is available 7 days a week, from 08:00 AM to 12:00 AM."
+    },
+   "footer": {
+    "apropos": "About",
+    "regles": "Legal Notices",
+    "contact": "Contact",
+    "conditions": "Terms of Use",
+    "faq": "Frequently Asked Questions",
+    "algerie-telecom": "Algérie Télécom © 2025"
+}
+
+}
